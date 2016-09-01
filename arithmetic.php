@@ -61,8 +61,8 @@ function modulus($a, $b)
 $paramA = 1;
 $paramB = 5;
 
-echo add($paramA, $paramB) . PHP_EOL;
-echo subtract($paramA, $paramB) . PHP_EOL;
-echo multiply($paramA, $paramB) . PHP_EOL;
-echo divide($paramA, $paramB) . PHP_EOL;
-echo modulus($paramA, $paramB) . PHP_EOL;
+echo "Add: " . add($paramA, $paramB) . PHP_EOL;
+echo "Subtract: " . subtract($paramA, $paramB) . PHP_EOL;
+echo "Multiply: " . multiply($paramA, $paramB) . PHP_EOL;
+echo "Divide: " . divide($paramA, $paramB) . PHP_EOL;
+echo "Modulus: " . modulus($paramA, $paramB) . PHP_EOL;
