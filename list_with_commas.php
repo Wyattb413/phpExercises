@@ -3,9 +3,6 @@
 $physicistsList = 'Gordon Freeman, Samantha Carter, Sheldon Cooper, Quinn Mallory, Bruce Banner, Tony Stark';
 
 $physicistsArray = explode(', ', $physicistsList);
-$poppedArray = $physicistsArray;
-
-
 
 function humanizedList($physicistsArray, $doASorting = false) {
 	if ($doASorting) {

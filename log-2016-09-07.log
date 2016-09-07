@@ -1,0 +1,6 @@
+2016-09-07/INFO/This is an info message.
+2016-09-07/ERROR/This is an info message.
+2016-09-07 15:51:11 [INFO] This is an info message.
+2016-09-07 15:51:11 [ERROR] This is an info message.
+2016-09-07 16:03:15 [ERROR] Username or password is incorrect
+2016-09-07 16:03:15 [INFO] User logged in successfully
